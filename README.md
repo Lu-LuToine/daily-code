@@ -1,6 +1,7 @@
 
 # 🍂 DailyCode ✨
 
+![linhas-de-flores](https://github.com/user-attachments/assets/8dc99e9c-e1df-46e6-9d04-c57a7160835d)
 
 
 ---
