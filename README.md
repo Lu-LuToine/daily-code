@@ -1,4 +1,5 @@
-![divider](https://github.com/user-attachments/assets/ca1e4fc5-2edf-4c8b-acf7-ae8f1c574472)
+![divider](https://github.com/user-attachments/assets/ca1e4fc5-2edf-4c8b-acf7-ae8f1c574472) ![divider](https://github.com/user-attachments/assets/ca1e4fc5-2edf-4c8b-acf7-ae8f1c574472)
+
 
 # 🍂 DailyCode ✨  
 
@@ -26,6 +27,6 @@
 
 ---
 
-<p align="center">
-  ![ghostedvpn-hacker-cat](https://github.com/user-attachments/assets/fe9d05de-10ad-47ab-a81b-52df53d62051)
-</p>
+
+![ghostedvpn-hacker-cat](https://github.com/user-attachments/assets/fe9d05de-10ad-47ab-a81b-52df53d62051)
+
